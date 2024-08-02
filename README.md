@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shyam Sundar</h1>
+<h1 align="center">Hi 👋, I'm Shyam Sundar Rampalli</h1>
 <h3 align="center">A passionate data scientist currently looking for new adventures</h3>
 
-- 🌱 I’m currently learning **SQL and deep learning**
+- 🌱 I’m currently learning **SQL**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rampallishyam?tab=repositories](https://github.com/rampallishyam?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@mystmon](https://medium.com/@mystmon)
 
-- 💬 Ask me about **Python, data visualisation and neural networks**
+- 💬 Ask me about **Python, Neural Networks**
 
 - 📫 How to reach me **rampallishyam2@gmail.com**
 
