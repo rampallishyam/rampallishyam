@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Sundar Rampalli</h1>
 <h3 align="center">A passionate data scientist currently looking for new adventures</h3>
 
-- 🔭 I’m currently working on [Creating my Github Page](rampallishyam.github.io)
+- 🔭 I’m currently working on **Creating my Github Page**
 
 - 🌱 I’m currently learning **SQL**
 
