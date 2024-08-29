@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
+- 🎓 I'm currently revising **SQL**
+
 - 👨‍💻 All of my projects are available at [https://github.com/rampallishyam?tab=repositories](https://github.com/rampallishyam?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@mystmon](https://medium.com/@mystmon)
