@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Sundar Rampalli</h1>
 <h3 align="center">A passionate data scientist looking for new adventures</h3>
 
-- 🔭 I’m currently working on **developing LSTM approach for trajectory prediction**
+- 🔭 I’m currently working on **developing LSTM approach for trajectory prediction and application of NLP techniques on disaster response survey data**
 
 - 🌱 I’m currently learning **SVMs**
 
