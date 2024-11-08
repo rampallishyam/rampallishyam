@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shyam Sundar Rampalli</h1>
 <h3 align="center">A passionate data scientist looking for new adventures</h3>
 
-- 🔭 I’m currently working on **developing LSTM approach for trajectory prediction and application of NLP techniques on disaster response survey data**
+- 🔭 I’m currently working on **maneuver classification of trajectory data, blogging ML projects and self-to-do projects**
 
-- 🌱 I’m currently learning **SVMs**
+- 🌱 I’m currently learning **Advanced MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rampallishyam?tab=repositories](https://github.com/rampallishyam?tab=repositories)
 
