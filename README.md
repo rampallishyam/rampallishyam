@@ -9,7 +9,7 @@
 
 <h3 align="left">More about me:</h3>
 <p align="left">
-I specialize in <strong>Python</strong>, **MLOps**, and **AI Engineering**. My expertise includes building scalable machine learning systems, deploying models with best-in-class tools like <strong>AWS SageMaker</strong> and <strong>TensorFlow Serving</strong>, and managing the entire ML lifecycle from data processing to model monitoring.
+I specialize in <strong>Python</strong>, <strong>MLOps</strong>MLOps, and <strong>AI Engineering</strong>. My expertise includes building scalable machine learning systems, deploying models with best-in-class tools like <strong>AWS SageMaker</strong> and <strong>TensorFlow Serving</strong>, and managing the entire ML lifecycle from data processing to model monitoring.
 
 
 <h3 align="left">Connect with me:</h3>
