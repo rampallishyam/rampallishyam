@@ -5,9 +5,7 @@
 
 - 📝 I write articles on [https://medium.com/@mystmon](https://medium.com/@mystmon)
 
-- 💬 Ask me about **Python, Neural Networks**
-
-- 📫 How to reach me **rampallishyam2@gmail.com**
+- 💬 Ask me about **Python, MLOps, AI Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
