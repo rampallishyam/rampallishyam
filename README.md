@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Sundar Rampalli</h1>
-<h3 align="center">A passionate data scientist looking for new adventures</h3>
+<h3 align="center">A results-oriented data scientist exploring new challenges to apply advanced analytics and machine learning.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rampallishyam?tab=repositories](https://github.com/rampallishyam?tab=repositories)
 
