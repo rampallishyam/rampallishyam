@@ -7,6 +7,11 @@
 
 - 💬 Ask me about **Python, MLOps, AI Engineering**
 
+<h3 align="left">More about me:</h3>
+<p align="left">
+I specialize in **Python**, **MLOps**, and **AI Engineering**. My expertise includes building scalable machine learning systems, deploying models with best-in-class tools like <strong>AWS SageMaker</strong> and <strong>TensorFlow Serving</strong>, and managing the entire ML lifecycle from data processing to model monitoring.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rampallishyam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rampallishyam2" height="30" width="40" /></a>
