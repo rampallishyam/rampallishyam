@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shyam Sundar Rampalli</h1>
-<h3 align="center">A results-oriented data scientist exploring new challenges to apply advanced analytics and machine learning.</h3>
+<h3 align="center">Data Scientist | MLOps Specialist | AI Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rampallishyam?tab=repositories](https://github.com/rampallishyam?tab=repositories)
-
-- 📝 I write articles on [https://medium.com/@mystmon](https://medium.com/@mystmon)
-
-- 💬 Ask me about **Python, MLOps, AI Engineering**
+- 👨‍💻 All of my projects are available at [https://github.com/rampallishyam?tab=repositories](https://github.com/rampallishyam?tab=repositories)  
+- 📝 I write articles on [https://medium.com/@mystmon](https://medium.com/@mystmon)  
+- 💬 Ask me about **Machine Learning, MLOps, and AI Engineering**  
 
 <h3 align="left">More about me:</h3>
 <p align="left">
-I specialize in <strong>Python</strong>, <strong>MLOps</strong>, and <strong>AI Engineering</strong>. My expertise includes building scalable machine learning systems, deploying models with best-in-class tools and managing the entire ML lifecycle from data processing to model monitoring.
+I’m a <strong>Data Scientist</strong> with over 5 years of experience designing and deploying production-grade ML systems across <strong>computer vision</strong>, <strong>NLP</strong>, and <strong>real-time inference</strong>.  
+<br><br>
+My expertise spans <strong>AWS SageMaker</strong>, <strong>Lambda</strong>, <strong>Docker</strong>, and <strong>FastAPI</strong> — building scalable pipelines from data ingestion to automated CI/CD model deployment. I’ve worked on impactful projects such as real-time traffic violation detection (Bosch), disaster report summarization (Université Gustave Eiffel), and clickstream-based conversion prediction (freelance analytics).  
+<br><br>
+Beyond development, I’m passionate about <strong>end-to-end MLOps</strong> — ensuring reliability, reproducibility, and measurable business outcomes. I hold an <strong>IBM Certified Data Scientist</strong> credential and am currently pursuing the <strong>AWS Machine Learning Engineer Associate</strong> certification.  
+<br><br>
+I actively share insights and tutorials on <strong>Medium</strong> and contribute to the ML community through open-source work and technical blogging.  
+</p>
 
-I also regularly contribute to the ML community on platforms like <strong>Kaggle</strong> and share insights via my articles on <strong>Medium</strong>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
