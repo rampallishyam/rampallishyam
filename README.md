@@ -9,7 +9,7 @@
 <p align="left">
 I’m a <strong>Data Scientist</strong> with over 5 years of experience designing and deploying production-grade ML systems across <strong>computer vision</strong>, <strong>NLP</strong>, and <strong>real-time inference</strong>.  
 <br><br>
-My expertise spans <strong>AWS SageMaker</strong>, <strong>Lambda</strong>, <strong>Docker</strong>, and <strong>FastAPI</strong> — building scalable pipelines from data ingestion to automated CI/CD model deployment. I’ve worked on impactful projects such as real-time traffic violation detection (Bosch), disaster report summarization (Université Gustave Eiffel), and clickstream-based conversion prediction (freelance analytics).  
+My expertise spans <strong>AWS SageMaker</strong>, <strong>Lambda</strong>, <strong>Docker</strong>, and <strong>FastAPI</strong> — building scalable pipelines from data ingestion to automated CI/CD model deployment. I’ve worked on impactful projects such as real-time traffic violation detection (Bosch), disaster report summarization, and clickstream-based conversion prediction.  
 <br><br>
 Beyond development, I’m passionate about <strong>end-to-end MLOps</strong> — ensuring reliability, reproducibility, and measurable business outcomes. I hold an <strong>IBM Certified Data Scientist</strong> credential and am currently pursuing the <strong>AWS Machine Learning Engineer Associate</strong> certification.  
 <br><br>
